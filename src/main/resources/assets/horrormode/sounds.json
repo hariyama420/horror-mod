@@ -1,0 +1,66 @@
+{
+  "random_ambient": {
+    "sounds": [
+      {
+        "name": "horrormode:1",
+        "stream": true
+      },
+      {
+        "name": "horrormode:2",
+        "stream": true
+      },
+      {
+        "name": "horrormode:3",
+        "stream": true
+      },
+      {
+        "name": "horrormode:4",
+        "stream": true
+      },
+      {
+        "name": "horrormode:5",
+        "stream": true
+      },
+      {
+        "name": "horrormode:6",
+        "stream": true
+      },
+      {
+        "name": "horrormode:7",
+        "stream": true
+      },
+      {
+        "name": "horrormode:8",
+        "stream": true
+      },
+      {
+        "name": "horrormode:9",
+        "stream": true
+      },
+      {
+        "name": "horrormode:morsecodemagic-audio",
+        "stream": true
+      },
+      {
+        "name": "horrormode:morsecodemagic-audio_1",
+        "stream": true
+      },
+      {
+        "name": "horrormode:morsecodemagic-audio_2",
+        "stream": true
+      },
+      {
+        "name": "horrormode:morsecodemagic-audio_3",
+        "stream": true
+      }
+    ]
+  },
+  "attacker": {
+    "sounds": [
+      {
+        "name": "horrormode:output",
+        "stream": true
+      }
+    ]
+  }
+}

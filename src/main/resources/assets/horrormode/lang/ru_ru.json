@@ -1,0 +1,12 @@
+{
+  "entity.horrormode.visitor": "незнакомец",
+  "message.horrormode.chat0": "Ты здесь не один.",
+  "message.horrormode.chat1": "Я вижу тебя.",
+  "message.horrormode.chat2": "Не оборачивайся.",
+  "message.horrormode.survival": "Для нападения переключись в выживание или приключение.",
+  "message.horrormode.no_space": "Не удалось найти свободное место для NPC поблизости.",
+  "message.horrormode.chat3": "Ты слышишь шаги?",
+  "message.horrormode.chat4": "Здесь нет выхода.",
+  "message.horrormode.chat5": "Я уже рядом.",
+  "entity.horrormode.watcher": "Наблюдатель"
+}

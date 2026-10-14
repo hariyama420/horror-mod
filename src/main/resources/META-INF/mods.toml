@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="horrormod"
+version="1.0.0"
+displayName="Horror Mod"
+description='''Periodic darkness, whispers and a lurking visitor.'''
+[[dependencies.horrormode]]
+modId="forge"
+mandatory=true
+versionRange="[47.3.0,48)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.horrormode]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
