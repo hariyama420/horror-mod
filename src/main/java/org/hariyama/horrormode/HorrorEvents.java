@@ -15,7 +15,6 @@ import net.minecraftforge.network.PacketDistributor;
 
 @Mod.EventBusSubscriber(modid = HorrorMode.ID)
 public final class HorrorEvents {
-    // Russian fallback travels with the component even when the client uses another language.
     private static final String[] CHAT_FALLBACKS = {
             "Ты здесь не один.",
             "Я вижу тебя.",
